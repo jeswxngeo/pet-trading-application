@@ -1,0 +1,40 @@
+# Flutter
+.dart_tool/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+
+# Android
+.gradle/
+
+# iOS
+Pods/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Android Studio
+.idea/
+
+# Node
+node_modules/
+
+# Environment
+.env
+.env.*
+
+# Logs
+*.log
+
+# Database
+*.sqlite
+*.db
+
+# ML Cache
+.ipynb_checkpoints/
